@@ -111,14 +111,15 @@
 }
 
 .post-author h3 {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     color: var(--color-dark);
     
 }
 
-.post h2 {
+.post h2 a{
     margin-bottom: 10px;
+    font-size: 16px;
 }
 
 
@@ -128,7 +129,7 @@
 }
 
 .post p {
-    font-size: 16px;
+    font-size: 15px;
     margin-bottom: 15px;
 }
 
