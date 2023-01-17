@@ -178,3 +178,8 @@
     width: 18px;
     margin-right: 8px;
 }
+
+.ver-post{
+    font-weight: 500;
+    color: var(--color-primary);
+}
