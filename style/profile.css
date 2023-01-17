@@ -248,4 +248,8 @@
     .profile-description {
         font-size: 14px;
     }
+
+    .profile-container-inner p {
+        font-size: 18px;
+    }
 }
