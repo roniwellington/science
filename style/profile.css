@@ -31,10 +31,15 @@
     padding: 15px;
 }
 
+.profile-titulo h2 {
+    margin-bottom: 10px;
+}
+
 .profile-container h2 {
     font-size: 28px;
     font-weight: 600;
     color: var(--color-danger);
+    ma
 }
 
 .profile-container b {
