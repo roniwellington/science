@@ -72,11 +72,21 @@
     }
 }
 
+
 @media screen and (max-width: 528px){
 
     .container {
         width: 100%;
     }
+
+    .botao{
+        display: none;
+    }
+
+    .sidebar{
+        display: none;
+    }
+
     nav .search-bar {
         display: none;
     }
